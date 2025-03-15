@@ -1,0 +1,212 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Demo-Example\\aspnetcore-web-app-M-V-C\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F7198EF1-96ED-48B2-A9B5-C57F17886E50}|aspnetcore\\aspnetcore.csproj|d:\\demo-example\\aspnetcore-web-app-m-v-c\\aspnetcore\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7198EF1-96ED-48B2-A9B5-C57F17886E50}|aspnetcore\\aspnetcore.csproj|solutionrelative:aspnetcore\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7198EF1-96ED-48B2-A9B5-C57F17886E50}|aspnetcore\\aspnetcore.csproj|d:\\demo-example\\aspnetcore-web-app-m-v-c\\aspnetcore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7198EF1-96ED-48B2-A9B5-C57F17886E50}|aspnetcore\\aspnetcore.csproj|solutionrelative:aspnetcore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7198EF1-96ED-48B2-A9B5-C57F17886E50}|aspnetcore\\aspnetcore.csproj|d:\\demo-example\\aspnetcore-web-app-m-v-c\\aspnetcore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F7198EF1-96ED-48B2-A9B5-C57F17886E50}|aspnetcore\\aspnetcore.csproj|solutionrelative:aspnetcore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7198EF1-96ED-48B2-A9B5-C57F17886E50}|aspnetcore\\aspnetcore.csproj|d:\\demo-example\\aspnetcore-web-app-m-v-c\\aspnetcore\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F7198EF1-96ED-48B2-A9B5-C57F17886E50}|aspnetcore\\aspnetcore.csproj|solutionrelative:aspnetcore\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7198EF1-96ED-48B2-A9B5-C57F17886E50}|aspnetcore\\aspnetcore.csproj|d:\\demo-example\\aspnetcore-web-app-m-v-c\\aspnetcore\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F7198EF1-96ED-48B2-A9B5-C57F17886E50}|aspnetcore\\aspnetcore.csproj|solutionrelative:aspnetcore\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7198EF1-96ED-48B2-A9B5-C57F17886E50}|aspnetcore\\aspnetcore.csproj|d:\\demo-example\\aspnetcore-web-app-m-v-c\\aspnetcore\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F7198EF1-96ED-48B2-A9B5-C57F17886E50}|aspnetcore\\aspnetcore.csproj|solutionrelative:aspnetcore\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7198EF1-96ED-48B2-A9B5-C57F17886E50}|aspnetcore\\aspnetcore.csproj|d:\\demo-example\\aspnetcore-web-app-m-v-c\\aspnetcore\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F7198EF1-96ED-48B2-A9B5-C57F17886E50}|aspnetcore\\aspnetcore.csproj|solutionrelative:aspnetcore\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7198EF1-96ED-48B2-A9B5-C57F17886E50}|aspnetcore\\aspnetcore.csproj|d:\\demo-example\\aspnetcore-web-app-m-v-c\\aspnetcore\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F7198EF1-96ED-48B2-A9B5-C57F17886E50}|aspnetcore\\aspnetcore.csproj|solutionrelative:aspnetcore\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 20,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:140:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:139:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:142:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:141:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:143:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Demo-Example\\aspnetcore-web-app-M-V-C\\aspnetcore\\appsettings.json",
+              "RelativeDocumentMoniker": "aspnetcore\\appsettings.json",
+              "ToolTip": "D:\\Demo-Example\\aspnetcore-web-app-M-V-C\\aspnetcore\\appsettings.json",
+              "RelativeToolTip": "aspnetcore\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-14T08:34:31.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\Demo-Example\\aspnetcore-web-app-M-V-C\\aspnetcore\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "aspnetcore\\Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\Demo-Example\\aspnetcore-web-app-M-V-C\\aspnetcore\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "aspnetcore\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-14T08:17:25.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\Demo-Example\\aspnetcore-web-app-M-V-C\\aspnetcore\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "aspnetcore\\Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\Demo-Example\\aspnetcore-web-app-M-V-C\\aspnetcore\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "aspnetcore\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-14T08:17:23.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Demo-Example\\aspnetcore-web-app-M-V-C\\aspnetcore\\Program.cs",
+              "RelativeDocumentMoniker": "aspnetcore\\Program.cs",
+              "ToolTip": "D:\\Demo-Example\\aspnetcore-web-app-M-V-C\\aspnetcore\\Program.cs",
+              "RelativeToolTip": "aspnetcore\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T08:09:13.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Demo-Example\\aspnetcore-web-app-M-V-C\\aspnetcore\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "aspnetcore\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Demo-Example\\aspnetcore-web-app-M-V-C\\aspnetcore\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "aspnetcore\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-14T08:09:12.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "D:\\Demo-Example\\aspnetcore-web-app-M-V-C\\aspnetcore\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "aspnetcore\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "D:\\Demo-Example\\aspnetcore-web-app-M-V-C\\aspnetcore\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "aspnetcore\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-14T08:09:11.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Demo-Example\\aspnetcore-web-app-M-V-C\\aspnetcore\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "aspnetcore\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Demo-Example\\aspnetcore-web-app-M-V-C\\aspnetcore\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "aspnetcore\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T08:09:07.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Demo-Example\\aspnetcore-web-app-M-V-C\\aspnetcore\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "aspnetcore\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\Demo-Example\\aspnetcore-web-app-M-V-C\\aspnetcore\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "aspnetcore\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-04T03:04:02.957Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
