@@ -10,6 +10,8 @@ using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.Extensions.Configuration;
 using Microsoft.IdentityModel.Tokens;
 using Microsoft.OpenApi.Models;
+using Ocelot.DependencyInjection;
+using Ocelot.Middleware;
 using System.Text;
 
 
@@ -18,10 +20,22 @@ var builder = WebApplication.CreateBuilder(args);
 var appSettings = builder.Configuration.GetAppSettings();
 builder.Services.AddSingleton<AppSettings>(appSettings);
 
+IConfiguration configuration = new ConfigurationBuilder()
+    .SetBasePath(Directory.GetCurrentDirectory())
+    .AddJsonFile("ocelot.json")
+    .Build();
+
 builder.Services.AddHttpContextAccessor();
 
+//builder.WebHost.ConfigureKestrel(options =>
+//{
+//    options.ListenAnyIP(6001, listenOptions =>
+//    {
+//        listenOptions.UseHttps(); // on HTTPS
+//    });
+//});
+
 builder.Services.AddControllersWithViews();
-builder.Services.AddControllers();
 builder.Services.AddControllers()
     .AddApplicationPart(typeof(AccountController).Assembly);
 
@@ -128,6 +142,7 @@ builder.Services.AddSwaggerGen(c =>
         }
     });
 });
+builder.Services.AddOcelot(configuration);
 
 var app = builder.Build();
 
@@ -151,6 +166,8 @@ app.UseStaticFiles();
 app.UseRouting();
 app.UseAuthentication();
 app.UseAuthorization();
+app.UseOcelot().Wait();
+//app.UseHttpsRedirection();
 
 app.UseEndpoints(endpoints => endpoints.MapControllers());
 app.UseStaticFiles();   

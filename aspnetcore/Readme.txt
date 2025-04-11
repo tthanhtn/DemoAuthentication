@@ -31,3 +31,18 @@ JWT Token
 
     curl --location 'http://localhost:5020/api/JWT/GetInforUserJwt?userId=1' \
     --header 'Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJodHRwOi8vc2NoZW1hcy54bWxzb2FwLm9yZy93cy8yMDA1LzA1L2lkZW'
+
+
+
+
+    
+child
+
+http://localhost:6001/cart-api/WeatherForecast/GetWeatherForecast
+
+
+parent
+http://localhost:5020/cart-gateway/WeatherForecast/GetWeatherForecast
+
+http://localhost:5020/ocelotGateway/WeatherForecast/GetOcelotGateway
+
